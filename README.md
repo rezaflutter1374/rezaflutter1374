@@ -7,15 +7,44 @@
 📫 Reach me at: rezaflutter@gmail.com
 ⚡ Key interests: Intuitive UI/UX design, robust state management (Riverpod/Provider), performance tuning, scalable architecture, integrating modern AI tools (like Gemini, Firebase AI, and Google ML Kit) for intelligent features, and bridging mobile with full-stack web via frameworks like Jaspr
 
+
+
+
+
+
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*N_Y8Qnn37DDTy0F5bxHKPQ.png" alt="Flutter Single Codebase - Multi Platform" width="1200"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Flutter](https://github.com/user-attachments/assets/1f9b1b19-c9d9-4555-bcf4-ee5d30ac370a)
 
 
-<p align="center">
-  <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter" width="200"/>
-</p>
+
+
+
+
+
+
 <p align="center">
   <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter Developer" width="300"/>
 </p>
+
+
+
+
 
 
 
@@ -31,8 +60,6 @@
 
 
 ![raf,360x360,075,t,fafafa_ca443f4786](https://github.com/user-attachments/assets/a96ea561-b559-4c21-b770-58e52538438e)
-
-
 
 
 
