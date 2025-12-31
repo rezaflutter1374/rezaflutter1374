@@ -59,10 +59,7 @@
 
 
 
-
-[
-](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*15ujY2MEHfZs_PZ8KxQGbQ.png)
-
+https://medium.com/@developerjamiu/jaspr-for-flutter-developers-bridging-the-gap-to-web-development-23e03d597395
 
 
 
