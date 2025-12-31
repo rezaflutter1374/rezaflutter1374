@@ -1,4 +1,4 @@
-
+![Sticker 5](https://files.grok.x.ai/media/5.jpeg)
 📱 About Me
 
 👀 Proficient in Flutter, Dart, HTML, CSS, and JavaScript, with a strong focus on building high-performance mobile applications
@@ -23,6 +23,8 @@
 
 
 
+![Sticker 0](https://files.grok.x.ai/media/0.jpeg)
+
 
 
 
@@ -32,6 +34,13 @@
 ![Flutter](https://github.com/user-attachments/assets/1f9b1b19-c9d9-4555-bcf4-ee5d30ac370a)
 
 
+
+
+
+
+
+
+![Sticker 1](https://files.grok.x.ai/media/1.jpeg)
 
 
 
@@ -73,7 +82,7 @@
 
 
 
-
+![Sticker 2](https://files.grok.x.ai/media/2.jpeg)
 
 
 
@@ -93,6 +102,7 @@
 
 
 
+![Sticker 6](https://files.grok.x.ai/media/6.jpeg)
 
 
 
@@ -105,8 +115,7 @@
 
 
 
-
-
+![Sticker 3](https://files.grok.x.ai/media/3.jpeg)
 
 
 
