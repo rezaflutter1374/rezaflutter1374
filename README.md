@@ -1,17 +1,54 @@
 
- 👋 Hi, I’m @rezaflutter1374
-- 👀 devloper flutter , html,css, javascrip... Mobile 
-- 🌱  flutter ...
-- 🧑‍💻 Always looking to learn and improve in programming.
-- 📫 rezaflutter@gmail.com  ...
-- dart💪
-- ⚡ [ ...
+📱 About Me
 
+👀 Proficient in Flutter, Dart, HTML, CSS, and JavaScript, with a strong focus on building high-performance mobile applications
+🌱 Exploring advanced Flutter ecosystems, including Jaspr – a modern Dart web framework that brings Flutter-like syntax to server-side rendering (SSR), static site generation (SSG), and native web technologies for SEO-friendly, content-heavy sites
+🧑‍💻 Passionate about tackling complex challenges, leveraging cutting-edge tools, and continuously refining my craft
+📫 Reach me at: rezaflutter@gmail.com
+⚡ Key interests: Intuitive UI/UX design, robust state management (Riverpod/Provider), performance tuning, scalable architecture, integrating modern AI tools (like Gemini, Firebase AI, and Google ML Kit) for intelligent features, and bridging mobile with full-stack web via frameworks like Jaspr
 
 ![Flutter](https://github.com/user-attachments/assets/1f9b1b19-c9d9-4555-bcf4-ee5d30ac370a)
 
 
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://jaspr.site/images/og_image.png" alt="Jaspr - Flutter for the Web" width="600"/>
+
+</div>
+
+
+
+
+
+
 ![raf,360x360,075,t,fafafa_ca443f4786](https://github.com/user-attachments/assets/a96ea561-b559-4c21-b770-58e52538438e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22,7 +59,42 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![617YOiyTxgL _SY580_](https://github.com/user-attachments/assets/e7ed482d-e44f-461f-93eb-6b3496c901ee)
+
+
+
+
+
+
+
+
+
+
 
 
 
