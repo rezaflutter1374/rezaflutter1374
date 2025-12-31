@@ -1,4 +1,4 @@
-
+![Coder Laptop Stickers](https://i.etsystatic.com/43681312/r/il/29e363/6055438429/il_fullxfull.6055438429_qvh1.jpg)
 📱 About Me
 
 👀 Proficient in Flutter, Dart, HTML, CSS, and JavaScript, with a strong focus on building high-performance mobile applications
