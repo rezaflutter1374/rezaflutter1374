@@ -10,7 +10,9 @@
 ![Flutter](https://github.com/user-attachments/assets/1f9b1b19-c9d9-4555-bcf4-ee5d30ac370a)
 
 
-
+<p align="center">
+  <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter" width="200"/>
+</p>
 <p align="center">
   <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter Developer" width="300"/>
 </p>
