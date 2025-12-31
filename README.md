@@ -47,10 +47,6 @@
 
 
 
-![Uploading image.png…]()
-
-
-
 
 
 
@@ -64,8 +60,8 @@
 
 
 
-
-
+[
+](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*15ujY2MEHfZs_PZ8KxQGbQ.png)
 
 
 
