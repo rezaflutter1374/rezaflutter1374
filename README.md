@@ -132,33 +132,7 @@
 
 
 
-<div align="center">
 
-<img src="stickers/sticker-0.jpeg" width="400" alt="استیکرهای کلاسیک برنامه‌نویسی"/>
-<br><br>
-
-<img src="stickers/sticker-1.jpeg" width="400" alt="مجموعه کامل ابزارهای توسعه"/>
-<br><br>
-
-<img src="stickers/sticker-2.jpeg" width="400" alt="شبکه‌های عصبی دیجیتال"/>
-<br><br>
-
-<img src="stickers/sticker-3.jpeg" width="400" alt="شبکه‌های عصبی واقعی"/>
-<br><br>
-
-<img src="stickers/sticker-5.jpeg" width="400" alt="طراحی سیستم و cloud"/>
-<br><br>
-
-<img src="stickers/sticker-6.jpeg" width="400" alt="الگوریتم و فلوچارت"/>
-<br><br>
-
-<img src="stickers/sticker-17.jpeg" width="400" alt="تم نئون‌گاتریک کوانتومی"/>
-<br><br>
-
-<img src="stickers/sticker-20.jpeg" width="400" alt="فلوچارت‌های پیشرفته و کد"/>
-<br><br>
-
-</div>
 
 
 
