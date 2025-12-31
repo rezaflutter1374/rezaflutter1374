@@ -11,7 +11,9 @@
 
 
 
-![Flutter](https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg)
+<p align="center">
+  <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter Developer" width="300"/>
+</p>
 
 
 
