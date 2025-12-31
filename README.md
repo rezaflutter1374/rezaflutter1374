@@ -1,4 +1,4 @@
-![Sticker 5](https://files.grok.x.ai/media/5.jpeg)
+
 📱 About Me
 
 👀 Proficient in Flutter, Dart, HTML, CSS, and JavaScript, with a strong focus on building high-performance mobile applications
@@ -23,7 +23,7 @@
 
 
 
-![Sticker 0](https://files.grok.x.ai/media/0.jpeg)
+
 
 
 
@@ -39,8 +39,6 @@
 
 
 
-
-![Sticker 1](https://files.grok.x.ai/media/1.jpeg)
 
 
 
@@ -82,7 +80,6 @@
 
 
 
-![Sticker 2](https://files.grok.x.ai/media/2.jpeg)
 
 
 
@@ -102,7 +99,6 @@
 
 
 
-![Sticker 6](https://files.grok.x.ai/media/6.jpeg)
 
 
 
@@ -115,7 +111,7 @@
 
 
 
-![Sticker 3](https://files.grok.x.ai/media/3.jpeg)
+
 
 
 
@@ -136,7 +132,33 @@
 
 
 
+<div align="center">
 
+<img src="stickers/sticker-0.jpeg" width="400" alt="استیکرهای کلاسیک برنامه‌نویسی"/>
+<br><br>
+
+<img src="stickers/sticker-1.jpeg" width="400" alt="مجموعه کامل ابزارهای توسعه"/>
+<br><br>
+
+<img src="stickers/sticker-2.jpeg" width="400" alt="شبکه‌های عصبی دیجیتال"/>
+<br><br>
+
+<img src="stickers/sticker-3.jpeg" width="400" alt="شبکه‌های عصبی واقعی"/>
+<br><br>
+
+<img src="stickers/sticker-5.jpeg" width="400" alt="طراحی سیستم و cloud"/>
+<br><br>
+
+<img src="stickers/sticker-6.jpeg" width="400" alt="الگوریتم و فلوچارت"/>
+<br><br>
+
+<img src="stickers/sticker-17.jpeg" width="400" alt="تم نئون‌گاتریک کوانتومی"/>
+<br><br>
+
+<img src="stickers/sticker-20.jpeg" width="400" alt="فلوچارت‌های پیشرفته و کد"/>
+<br><br>
+
+</div>
 
 
 
