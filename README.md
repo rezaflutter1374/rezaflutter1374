@@ -1,4 +1,4 @@
-<img width="866" height="650" alt="image" src="https://github.com/user-attachments/assets/578f1805-f28a-4d27-8612-ac25703bf6a6" /><img width="866" height="650" alt="image" src="https://github.com/user-attachments/assets/baecb514-e2c3-4410-9dbf-793e4fb054d0" />
+
 📱 About Me
 
 👀 Proficient in Flutter, Dart, HTML, CSS, and JavaScript, with a strong focus on building high-performance mobile applications
