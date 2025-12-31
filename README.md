@@ -29,7 +29,6 @@
 
 
 
-![Uploading image.png…]()
 
 
 
@@ -66,6 +65,20 @@
 
 
 ![images](https://github.com/user-attachments/assets/b425aae8-3834-4015-9485-f7ef8c0d0400)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Jaspr for Flutter Developers](https://miro.medium.com/1*15ujY2MEHfZs_PZ8KxQGbQ.png)
 
 
 
