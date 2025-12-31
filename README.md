@@ -12,14 +12,18 @@
 
 
 
+<div align="center">
 
+<img src="./images/your-jaspr-logo.png" alt="Jaspr Logo" width="400"/>
+
+</div>
 
 
 
 
 <div align="center">
 
-<img src="https://jaspr.site/images/og_image.png" alt="Jaspr - Flutter for the Web" width="600"/>
+<img src="https://jaspr.site/images/og_image.png" alt="Jaspr - Flutter for the Web" width="1000"/>
 
 </div>
 
