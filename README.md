@@ -204,6 +204,24 @@
 
 
 
+
+
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/465169221/3e69b11f-db2b-4699-8158-f5597fbff689" alt="Skill Icons Showcase" width="500"/>
+  <br><br>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*YzoVjQ57jkUmYhibLh4JtQ.png" alt="GitHub Profile Example" width="500"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 ![imagess](https://github.com/user-attachments/assets/6f2c7033-c7db-4aa3-9bd0-ff42e158aa1a)
 
 
