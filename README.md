@@ -58,9 +58,7 @@
 
 
 
-
-![Jaspr for Flutter Developers](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OaQXePXDweb8f4z0tO1qBg.png)
-
+![Jaspr for Flutter Developers](https://miro.medium.com/v2/resize:fit:1358/format:webp/1*4TYf4vbNQttDjoNXyMn5rA.png)
 
 
 
