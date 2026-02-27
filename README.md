@@ -44,11 +44,6 @@
 
 
 
-<p align="center">
-  <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/flutter5786_1687632217.jpeg" alt="Flutter Developer" width="300"/>
-</p>
-
-
 
 
 
@@ -78,11 +73,6 @@
 
 ![Jaspr for Flutter Developers](https://miro.medium.com/v2/resize:fit:1358/format:webp/1*4TYf4vbNQttDjoNXyMn5rA.png)
 
-
-
-
-
-![images](https://github.com/user-attachments/assets/b425aae8-3834-4015-9485-f7ef8c0d0400)
 
 
 
